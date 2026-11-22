@@ -1,7 +1,7 @@
 # industry-compares-with-a-comparison-industry
 your industry (Project 1), your earnings-surprise analysis (Project 2, corrected), and how your industry compares with a comparison industry assigned to you. You also publish a clean GitHub repository that you can show to future employers.
 
-Update on 11.21:
+change since project2 on 11.21:
 
 1.Your notebook stops at Step 5. Step 4 applies Rules 1 to 5 and saves the result as "sample", but Step 5 uses "events", so Python can't find it and throws an error. Use the same name in both steps, for example by saving the table as "events" at the end of Step 4.
 
