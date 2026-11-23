@@ -97,7 +97,7 @@ used, one line per conversation:
 2. Code Walkthrough: Breaking down your data-cleaning, merging, and object-oriented (Industry class) Python pipeline into plain, easy-to-understand steps.
 3. Debugging Python Errors: Fixing KeyError: 'mon', KeyError: 'vwretd', and AttributeError: 'Industry' object has no attribute 'car_window_paths'.
 4. Data Visualization: Writing Python code to generate and compare charts (including Day −5 to +5 CAR line charts, High-minus-Low spread lines, and regression plots) across two different industries. |
-| Chaptgpt| https://chatgpt.com/share/6b03a13a-6d38-83ea-a924-9fcd2f5a91fa| Data and merging / Missing values and sample selection / T-test and regression results / Figure 1 and Figure 2, Figure 3 and industry differences / Business implication for NVIDIA / Limitation|
+| Chaptgpt| [https://chatgpt.com/share/6b03a13a-6d38-83ea-a924-9fcd2f5a91fa](https://chatgpt.com/share/6b03a759-3768-83e9-b52f-101a854185d8)| Data and merging / Missing values and sample selection / T-test and regression results / Figure 1 and Figure 2, Figure 3 and industry differences / Business implication for NVIDIA / Limitation|
 Write "None" if you used no AI.
 ## Files
 ```
