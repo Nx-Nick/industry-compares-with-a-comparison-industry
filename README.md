@@ -93,8 +93,11 @@ Write "None" if there was nothing to fix.
 The class notebook, an AI tool, or your own changes. List every AI conversation you
 used, one line per conversation:
 | AI tool | Link (or PDF in docs/) | What I used it for |
-| Gemini | https://share.google/aimode/XW9SlHF0fCkauUluy | merging in project 2 |
-| Chaptgpt| https://chatgpt.com/share/6b03a13a-6d38-83ea-a924-9fcd2f5a91fa| coding part in lag calculation and something|
+| Gemini | https://share.google/aimode/XW9SlHF0fCkauUluy | 1. Financial & Statistical Concepts: Understanding winsorization (capping outliers), Compustat’s epspx variable (basic earnings per share excluding extraordinary items), CRSP’s market return table (mkt / vwretd), and interpreting a Day −5 to +5 Cumulative Abnormal Return (CAR) chart across Low, Middle, and High SUE groups.
+2. Code Walkthrough: Breaking down your data-cleaning, merging, and object-oriented (Industry class) Python pipeline into plain, easy-to-understand steps.
+3. Debugging Python Errors: Fixing KeyError: 'mon', KeyError: 'vwretd', and AttributeError: 'Industry' object has no attribute 'car_window_paths'.
+4. Data Visualization: Writing Python code to generate and compare charts (including Day −5 to +5 CAR line charts, High-minus-Low spread lines, and regression plots) across two different industries. |
+| Chaptgpt| https://chatgpt.com/share/6b03a13a-6d38-83ea-a924-9fcd2f5a91fa| Data and merging / Missing values and sample selection / T-test and regression results / Figure 1 and Figure 2, Figure 3 and industry differences / Business implication for NVIDIA / Limitation|
 Write "None" if you used no AI.
 ## Files
 ```
